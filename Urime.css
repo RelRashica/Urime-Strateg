@@ -1,0 +1,45 @@
+/* 1. Style the body */
+body {
+    font-family: 'Arial', sans-serif; /* Clean font */
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark text color for easy reading */
+    text-align: center; /* Center everything */
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* 2. Style the title */
+  h1 {
+    color: #4CAF50; /* Green color */
+    font-size: 48px; /* Big title */
+    margin-top: 50px; /* Space from the top */
+  }
+  
+  /* 3. Style the paragraph */
+  p {
+    font-size: 20px; /* Medium font size */
+    color: #555; /* Light gray for text */
+    margin: 20px; /* Space between paragraphs */
+    line-height: 1.5; /* Makes the text easier to read */
+  }
+  
+  /* 4. Style the image */
+  img {
+    width: 300px; /* Limit the size of the image */
+    height: auto; /* Keep the aspect ratio */
+    border-radius: 10px; /* Round the corners of the image */
+    margin: 20px; /* Add space around the image */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for a 3D effect */
+  }
+  
+  /* 5. Style the link */
+  a {
+    color: #FF6347; /* Tomato red color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Make it bold */
+  }
+  
+  a:hover {
+    color: #FF4500; /* Change color when hovered */
+  }
+  
